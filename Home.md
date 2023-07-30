@@ -22,17 +22,22 @@ features!
 - Loaded With breathtaking features! 
 Join Our Discord Server - **[Here](https://discord.gg/prismo)**<br/>
 
-## Features
-- **Create Embeds**
+## More
+
+{% hint style="info" %}
+**Features**
+
+- **Create Embed**
 - **Create Welcome**
 - **Autorole**
-- **Manage Server Within Discord**
 - **Antinuke**
 - **Moderation**
-- **Application Command**
 - **Giveaways**
 - **Imagine/AI**
-- **On Member Join Greeting**
+{% endhint %}
 
-## Upcoming Features
-- **Dashboard**
+{% hint style="info" %}
+**Completely New To Crolex?**
+
+- **Head Over To **
+{% endhint %}
