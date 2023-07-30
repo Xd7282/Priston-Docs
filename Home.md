@@ -39,5 +39,5 @@ Join Our Discord Server - **[Here](https://discord.gg/prismo)**<br/>
 {% hint style="info" %}
 **Completely New To Crolex?**
 
-- **Head Over To **
+- **Head Over To #quick-start**
 {% endhint %}
