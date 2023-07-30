@@ -8,6 +8,22 @@ author:
 
 # Change Log
 
+{% hint style="info" %}
+**Version 1.0**
+
+- Added __invite management__ system.
+- Commands added.
+  - invitecodes
+  - invitelogs
+  - invitetracking
+  - invited
+  - inviter
+  - invites
+  - leaderboard
+  - purgeinvitecodes
+  - resetinvites.
+{% endhint %}
+
 ## ⚙️ Version 1.4
 - Added __invite management__ system.
 - Commands added.
